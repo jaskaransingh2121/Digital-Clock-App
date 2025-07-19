@@ -6,7 +6,7 @@ It displays the current time in **12-hour format** with AM/PM indicator and upda
 ---
 
 ## 🔗 Live Demo
-[https://jaskaransingh2121.github.io/Digital-Clock-App/](#) 
+[https://jaskaransingh2121.github.io/Digital-Clock-App/]
 
 ---
 
